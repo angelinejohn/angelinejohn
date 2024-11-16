@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 </p>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=angelinejohn&label=Profile%20views&color=0e75b6&style=flat" alt="angelinejohn" />
-<p>
+<!-- <p>
   <h3 align="center">
     🔭 I’m currently working on
   </h3>
   - MyNotes iOS App using CoreData
-</p>
+</p> -->
 <hr>
 <p>
   <h3 align="center">
